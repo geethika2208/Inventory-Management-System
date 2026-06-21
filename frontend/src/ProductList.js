@@ -5,7 +5,7 @@ function ProductList() {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/api/products/")
+    fetch("https://inventory-backend-88x9.onrender.com/api/products/")
       .then((response) => response.json())
       .then((data) => setProducts(data))
       .catch((error) => console.error("Error fetching products:", error));
