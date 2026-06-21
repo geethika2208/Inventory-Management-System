@@ -3,12 +3,11 @@
 ## Overview
 A full-stack Inventory Management System built using Django REST Framework and React.js.
 
-Live Demo
 
+## Live Demo
 https://smart-inventory-sys.netlify.app/
 
-GitHub Repository
-
+## GitHub Repository
 https://github.com/geethika2208/Inventory-Management-System
 
 ## Project Screenshot
