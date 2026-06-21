@@ -3,6 +3,10 @@
 ## Overview
 A full-stack Inventory Management System built using Django REST Framework and React.js.
 
+## Project Screenshot
+
+![Inventory Dashboard](Inventory-dashbord.png)
+
 ## Features
 - Product Management
 - Inventory Tracking
