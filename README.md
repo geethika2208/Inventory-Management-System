@@ -7,9 +7,6 @@ A full-stack Inventory Management System built using Django REST Framework and R
 ## Live Demo
 https://smart-inventory-sys.netlify.app/
 
-## GitHub Repository
-https://github.com/geethika2208/Inventory-Management-System
-
 ## Project Screenshot
 
 ![Inventory Dashboard](Inventory-dashbord.png)
